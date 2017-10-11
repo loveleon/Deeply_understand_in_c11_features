@@ -1,0 +1,8 @@
+main.cpp test1.cpp test2.cpp test.h are used to make testing for 'explicit instanced ' in function template.
+##complile:
+	g++ -o a.out main.cpp test1.cpp test2.cpp -std=c++11
+##run:
+	./a.out 
+##output:
+	t:1
+	t:2
